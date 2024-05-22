@@ -1,3 +1,5 @@
+# I do not use alacritty anymore, this configuration may or may not work
+
 # Alacritty Config
 
 I use [tokyo night](https://github.com/zatchheems/tokyo-night-alacritty-theme) as a colourscheme.
